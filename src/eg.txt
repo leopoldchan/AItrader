@@ -1,0 +1,4 @@
+1) 
+
+if((float(str(df['price'])[5:10])>=28.08) and (float(str(df['price'])[5:11])<=28.11)): #28.28  
+        break
